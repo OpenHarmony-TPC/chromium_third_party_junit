@@ -1,11 +1,11 @@
 [
     {
         "Name": "junit",
-        "License":,
-        "License File":,
+        "License":"Apache-2.0",
+        "License File":"LICENSE.txt",
         "Version Number": "64155f8a9babcfcf4263cf4d08253a1556e75481",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/junit.git@64155f8a9babcfcf4263cf4d08253a1556e75481",
-        "Description": "第三方软件junit"
+        "Description": "第三方软件junit，一个Java测试框架，使编写可靠和高效的测试变得容易"
     }
 ]
