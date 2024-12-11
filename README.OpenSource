@@ -1,8 +1,8 @@
 [
     {
         "Name": "junit",
-        "License":"Apache-2.0",
-        "License File":"LICENSE.txt",
+        "License":"EPL-1.0",
+        "License File":"LICENSE-junit.txt",
         "Version Number": "64155f8a9babcfcf4263cf4d08253a1556e75481",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/junit.git@64155f8a9babcfcf4263cf4d08253a1556e75481",
